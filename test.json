@@ -1,0 +1,27 @@
+
+
+
+
+{
+    "hospitals": [
+      {
+        "name": "Hospital A",
+        "url": "https://www.hospitalA.com/doctors",
+        "selectors": {
+          "doctor_info": "CSS_SELECTOR_FOR_DOCTOR_INFO",
+          "name": "CSS_SELECTOR_FOR_NAME",
+          "specialty": "CSS_SELECTOR_FOR_SPECIALTY"
+        }
+      },
+      {
+        "name": "Hospital B",
+        "url": "https://www.hospitalB.com/doctors",
+        "selectors": {
+          "doctor_info": "CSS_SELECTOR_FOR_DOCTOR_INFO",
+          "name": "CSS_SELECTOR_FOR_NAME",
+          "specialty": "CSS_SELECTOR_FOR_SPECIALTY"
+        }
+      },
+    ]
+  }
+  
